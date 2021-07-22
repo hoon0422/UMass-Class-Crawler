@@ -5,7 +5,8 @@
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js"
+    "start": "NODE_ENV=production node index.js",
+    "start:dev": "NODE_ENV=development node index.js"
   },
   "author": "Younghoon Jeong",
   "license": "MIT",
