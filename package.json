@@ -11,7 +11,7 @@
   "author": "Younghoon Jeong",
   "license": "MIT",
   "dependencies": {
-    "cheerio": "^1.0.0-rc.3",
+    "cheerio": "^1.0.0-rc.12",
     "cookie": "^0.4.0",
     "dotenv": "^8.1.0",
     "puppeteer": "^1.19.0"
